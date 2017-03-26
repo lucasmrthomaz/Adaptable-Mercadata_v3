@@ -1,10 +1,12 @@
 # Mercadata - 2017
-#### Moodle 3.1
+### Tema para Moodle 3.x
+### Customização por: @lucasmrthomaz - Lucas Thomaz
 
+* Moodle 3.0 - OK
+* Moodle 3.1 - OK
+* Moodle 3.2 - NÃO TESTADO
 
 ------------
-
-
 
 # Adaptable - the most adaptable moodle theme
 #### Version 1.3.1.1 (2017012300)
