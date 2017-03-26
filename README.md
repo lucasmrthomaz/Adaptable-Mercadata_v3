@@ -6,6 +6,8 @@
 * Moodle 3.1 - OK
 * Moodle 3.2 - NÃO TESTADO
 
+##### Reserva-se todos os créditos para os criadores originais do projeto citados ao fim do README.
+
 ------------
 
 # Adaptable - the most adaptable moodle theme
